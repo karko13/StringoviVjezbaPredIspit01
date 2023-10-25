@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\ItalijaHrvatskaStringovi\bin\Debug\ItalijaHrvatskaStringovi.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\ItalijaHrvatskaStringovi\bin\Debug\ItalijaHrvatskaStringovi.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\ItalijaHrvatskaStringovi\bin\Debug\ItalijaHrvatskaStringovi.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\ItalijaHrvatskaStringovi\obj\Debug\ItalijaHrvatskaStringovi.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\ItalijaHrvatskaStringovi\obj\Debug\ItalijaHrvatskaStringovi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\ItalijaHrvatskaStringovi\obj\Debug\ItalijaHrvatskaStringovi.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\ItalijaHrvatskaStringovi\obj\Debug\ItalijaHrvatskaStringovi.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\ItalijaHrvatskaStringovi\obj\Debug\ItalijaHrvatskaStringovi.pdb
